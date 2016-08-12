@@ -8,6 +8,7 @@
 #include <thread>
 #include <fstream>
 #include <boost/regex.hpp>
+#include <iostream>
 
 #define MAX_EVENTS 1024
 
